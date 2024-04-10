@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🙋‍♀️ This github holds some of the repositories created from research projects collaborations around HRI, haptics and control
 <!--
 
 **Here are some ideas to get you started:**
